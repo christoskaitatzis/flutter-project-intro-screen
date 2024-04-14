@@ -1,6 +1,7 @@
 # untitled1
 
-A new Flutter project.
+Flutter project with a simple intro screen including a title, description and a background image loaded via a url.
+![Intro screen screenshot](screenshot.png)
 
 ## Getting Started
 
