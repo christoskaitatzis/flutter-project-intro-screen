@@ -1,7 +1,7 @@
 # untitled1
 
 Flutter project with a simple intro screen including a title, description and a background image loaded via a url.
-<img src="screenshot.png" width=50% height=50%"> 
+<img src="screenshot.png" width="50%" height="50%"> 
 
 ## Getting Started
 
